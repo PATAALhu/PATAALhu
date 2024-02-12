@@ -47,4 +47,5 @@ BY VIP DITTO():
 
 [<img src="https://github-readme-stats.vercel.app/api?username=PATAALhu&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/PATAALhu)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=PATAALhu&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/PATAALhu)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/PATAAL_NAGRI)
 
